@@ -24,7 +24,7 @@ Apart from Bootstrap JS components and jquery.onepage-scroll majority of JS is l
 Credits
 ---------
 
-- Botstrap 4
+- Bootstrap 4
 - Font Awesome 5
 - Google Fonts - Roboto
 
